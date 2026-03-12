@@ -1,0 +1,16 @@
+{
+  "name": "js-address-validator",
+  "version": "1.0.0",
+  "description": "Beldex address validator for JavaScript, supporting mainnet, testnet, and devnet addresses.",
+  "main": "address_validator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "keccak": "^3.0.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
